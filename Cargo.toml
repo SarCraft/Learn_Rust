@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+members = [
+    "1.1_Calculator",
+    "1.2_PasswordGenerator",
+    "2.1_ListFiles",
+    "2.2_ExtensionSearch",
+    "2.3_LineOfCode",
+    "3.1_ParserIni",
+    "3.2_ParserEnv",
+    "4.1_TodoList-ButGood",
+    "4.2_BlackJack",
+    "5.1_HTTPServer",
+    "5.2_API-REST(Axum)",
+]
